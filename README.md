@@ -1,0 +1,2 @@
+# strict-project
+HTML-TEMPLATE
